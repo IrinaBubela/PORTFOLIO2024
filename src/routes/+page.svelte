@@ -1,4 +1,5 @@
 <script>
+	import MainContent from "$lib/MainContent.svelte";
 </script>
 
 <svelte:head>
@@ -6,11 +7,11 @@
 	<meta name="description" content="Svelte demo app" />
 </svelte:head>
 
-<section>hello</section>
+<MainContent />
 
-<style lang="postcss">
-	@import "../app.css";
+<style lang="scss">
+	@import "../app.scss";
 	:global(html) {
-		background-color: theme(colors.gray.100);
+		background-color: $background;
 	}
 </style>
