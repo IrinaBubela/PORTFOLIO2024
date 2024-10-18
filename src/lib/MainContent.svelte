@@ -10,7 +10,7 @@
         cool personal projects.
     </p>
     <button
-        class="bg-white-600 py-3 px-6 rounded-md hover:bg-white-500 transition"
+ class="bg-white-600 py-3 px-6 rounded-md hover:bg-white-500 transition"
     >
         Contact Me
     </button>
