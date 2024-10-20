@@ -28,6 +28,9 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"three": "^0.169.0"
+		"lil-gui": "^0.19.2",
+		"stats.js": "^0.17.0",
+		"three": "^0.169.0",
+		"vanta": "^0.5.24"
 	}
 }

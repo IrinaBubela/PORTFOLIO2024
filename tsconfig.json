@@ -11,6 +11,7 @@
 			"DOM",
 			"ESNext"
 		],
+		"verbatimModuleSyntax": true,
 		"moduleResolution": "node",
 		"esModuleInterop": true,
 		"skipLibCheck": true,
